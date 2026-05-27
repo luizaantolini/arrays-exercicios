@@ -16,4 +16,4 @@ Preencher automaticamente um vetor numérico com 7 números gerados aleatoriamen
 Solicitar ao usuário 10 números inteiros e armazenar em um vetor. Depois, solicitar um número e verificar quantas vezes ele aparece no vetor.
 
 ## ex04 🔟🛰️
-4. Solicitar 10 números ao usuário e armazenar em um vetor. Depois, criar um novo vetor removendo os valores duplicados e exibir o vetor original e o vetor sem duplicatas.
+Solicitar 10 números ao usuário e armazenar em um vetor. Depois, criar um novo vetor removendo os valores duplicados e exibir o vetor original e o vetor sem duplicatas.
