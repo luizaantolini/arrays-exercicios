@@ -10,7 +10,7 @@ let valorFinal = parseFloat(prompt("Digite o valor final da contagem:"));
 let incremento = parseFloat(prompt("Digite o incremento da contagem:"));
 
 for (let numeros = valorInicial; numeros <= valorFinal; numeros += incremento) { // a variável começa com o valor inicial, e enquanto for menor ou igual ao valor final, ela vai aumentando de acordo com o incremento
-    contagem += `${numeros} - `; // cada número gerado pela contagem é adicionado à variável contagem
+    contagem += `${numeros} ; `; // cada número gerado pela contagem é adicionado à variável contagem
 } if (valorInicial > valorFinal) {
     alert("Não é possível realizar a contagem com o valor inicial maior que o valor final.");
 }
